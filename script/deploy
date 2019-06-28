@@ -5,4 +5,8 @@ ssh denisa@104.248.42.116 <<EOF
  npm install -- production
  pm2 restart all
  exit
+<<<<<<< HEAD
 EO
+=======
+EOF
+>>>>>>> 91eee50376aa9f686796356926fe0f3f27e4a2d4
